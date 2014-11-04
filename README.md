@@ -1,4 +1,4 @@
 Hello Git
 ========
 
-Repository for practicing old/new git features
+Trivial repository for practicing old/new git features
