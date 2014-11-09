@@ -1,5 +1,7 @@
 <?php
   
+  // Accessing location
+  
   class LocationService
   {
 	  public static function getLocationName($lat,$lng)
